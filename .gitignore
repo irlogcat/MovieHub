@@ -6,3 +6,6 @@
 /build
 /captures
 .externalNativeBuild
+.gitignore
+build/kotlin/sessions/
+src/main/kotlin/io/
